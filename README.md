@@ -9,7 +9,6 @@ This repository contains the Unity source project used for the benchmark experim
 Executable build: Available in the Releases section.
 
 Instructions:
-
-Download the archive from Releases.
-Extract it.
-Run ResourceBenchmarkUnity.exe.
+1. Download the archive from Releases.
+2. Extract it.
+3. Run ResourceBenchmarkUnity.exe.
