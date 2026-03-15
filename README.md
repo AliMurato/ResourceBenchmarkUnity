@@ -1,3 +1,5 @@
+# ResourceBenchmarkUnity
+
 Benchmark project developed for the bachelor thesis:
 
 "Comparative analysis of Unity and Unreal Engine for video game development".
